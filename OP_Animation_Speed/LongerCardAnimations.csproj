@@ -7,8 +7,8 @@
     <ProjectGuid>{E10DB26C-046D-4794-8AB0-AA55ABE4381E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>op_longer_animations</RootNamespace>
-    <AssemblyName>op_longer_animations</AssemblyName>
+    <RootNamespace>LongerCardAnimations</RootNamespace>
+    <AssemblyName>LongerCardAnimations</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

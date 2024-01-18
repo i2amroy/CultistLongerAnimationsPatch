@@ -6,11 +6,11 @@ using HarmonyLib;
 using SecretHistories.Manifestations;
 using UnityEngine;
 
-public class op_longer_animations : MonoBehaviour
+public class LongerCardAnimations : MonoBehaviour
 {
     public static void Initialise()
     {
-        NoonUtility.Log("op_longer_animations: Initialising");
+        NoonUtility.Log("LongerCardAnimations: Initialising");
 
         Harmony harmony = new Harmony("opanimations");
         try

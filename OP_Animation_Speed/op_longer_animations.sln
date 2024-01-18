@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "op_longer_animations", "op_longer_animations.csproj", "{E10DB26C-046D-4794-8AB0-AA55ABE4381E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongerCardAnimations", "LongerCardAnimations.csproj", "{E10DB26C-046D-4794-8AB0-AA55ABE4381E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
